@@ -1,5 +1,7 @@
  StiAI Dijital Eğitim Asistanı
-![login_image](https://github.com/talhaperi1903/OUA-AI-APP-JAM-GROUP-1/assets/49415597/48e9302a-7c99-4a97-a425-eb89f1610473)
+
+![login_image](https://github.com/talhaperi1903/OUA-AI-APP-JAM-GROUP-1/assets/49415597/9f464037-70d7-43a7-a060-2c501e6964b4)
+
 
 https://github.com/talhaperi1903/OUA-AI-APP-JAM-GROUP-1/assets/49415597/7776d8c4-ae68-4179-a18b-39b15224c899
 
