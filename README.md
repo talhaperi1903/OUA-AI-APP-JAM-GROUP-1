@@ -10,7 +10,7 @@ StiAI, yapay zeka destekli dijital eğitim asistanınız olarak, eğitim hayatı
 
 ## StiAI ile neler yapabilirsiniz:
 
-- **Çözüm Asistanı:** Sorularınızı yapay zeka desteğiyle hızlı ve doğru bir şekilde çözmenize yardımcı olur.
+- **Çözüm Asistanı:** Metin veya fotoğraflı sorularınızı yapay zeka desteğiyle hızlı ve doğru bir şekilde çözmenize yardımcı olur.
 - **Quiz Oluştur:** Kendi quizlerinizi yapay zeka desteğiyle oluşturabilir ve kendinizi test edebilirsiniz.
 - **Çalışma Planı Oluştur:** Yapay zeka desteğiyle kendi çalışma planlarınızı kolayca yaparak zamanınızı verimli kullanabilirsiniz.
 - **Ders Notu Oluştur:** Ders notlarınızı yapay zeka desteğiyle dijital ortamda düzenleyin ve saklayın.
