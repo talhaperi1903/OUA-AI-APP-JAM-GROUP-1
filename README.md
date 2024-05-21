@@ -31,8 +31,7 @@ StiAI, Oyun ve Uygulama Akademisi tarafından düzenlenen AI App Jam etkinliğin
 - Muhammed Talha Peri
 - Hasan Tekyıldırım
 - Kübra Nur Göktaş
-- Emir Kağan Yiğit
-- Sena Özilban
+
 
 
 StiAI, öğrencilerin ihtiyaçlarına yönelik, kişiselleştirilmiş ve etkili çözümler sunan bir eğitim asistanıdır. Eğitim hayatınızı kolaylaştırmak ve başarıya ulaşmanız için yanınızda.
