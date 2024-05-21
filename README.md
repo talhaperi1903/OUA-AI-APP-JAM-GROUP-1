@@ -3,7 +3,11 @@
 ![login_image](https://github.com/talhaperi1903/OUA-AI-APP-JAM-GROUP-1/assets/49415597/9f464037-70d7-43a7-a060-2c501e6964b4)
 
 
-https://github.com/talhaperi1903/OUA-AI-APP-JAM-GROUP-1/assets/49415597/7776d8c4-ae68-4179-a18b-39b15224c899
+
+
+https://github.com/talhaperi1903/OUA-AI-APP-JAM-GROUP-1/assets/49415597/58b54b4c-1ed9-4ee4-9d94-4a9c3ffb19e5
+
+
 
 
 StiAI, yapay zeka destekli dijital eğitim asistanınız olarak, eğitim hayatınızı daha verimli ve organize hale getirmek için burada. Bu güçlü uygulama, öğrencilerin ders çalışma süreçlerini optimize ederken, bilgiye dayalı başarıyı artırmayı hedefler.
